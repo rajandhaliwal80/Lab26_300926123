@@ -1,5 +1,5 @@
 ﻿/* 
- * Name: Rajandeep Kaur Dhlaiwal 300926123
+ * Name: Rajandeep Kaur Dhlaiwal_300926123
  * Date : August 3,2017
  * Description : BMI CAlculator Lab 26
  */
